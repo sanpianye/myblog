@@ -1,2 +1,2 @@
 # myblog
-https://github.com/sanpianye/myblog
+https://sanpianye.github.com/myblog
