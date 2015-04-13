@@ -1,3 +1,3 @@
 # myblog
 
-https://sanpianye.github.io/myblog/
+http://sanpianye.github.io/myblog/
